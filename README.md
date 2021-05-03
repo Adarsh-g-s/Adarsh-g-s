@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<adarsh-g-s>&theme=<THEME_NAME>" />
+[![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-g-s)](https://github.com/Adarsh-g-s/github-readme-stats)
