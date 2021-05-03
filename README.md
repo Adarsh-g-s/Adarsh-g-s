@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-g-s&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-g-s&count_private=true)](https://github.com/Adarsh-g-s/github-readme-stats)
+
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
