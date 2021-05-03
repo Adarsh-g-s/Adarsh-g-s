@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <!-- [![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-g-s)](https://github.com/Adarsh-g-s/github-readme-stats) -->
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-g-s&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-g-s&count_private=true)](https://github.com/Adarsh-g-s/github-readme-stats)
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-g-s&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-g-s&layout=compact)](https://github.com/Adarsh-g-s/github-readme-stats)
+
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-g-s&count_private=true)](https://github.com/Adarsh-g-s/github-readme-stats) -->
 
 
 <!-- ![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  -->
