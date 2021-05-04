@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visualstudio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Rstudio-informational?style=flat&logo=R-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Rstudio-informational?style=flat&logo=Rstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
