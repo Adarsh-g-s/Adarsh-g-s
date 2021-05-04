@@ -1,6 +1,6 @@
 ### Hey, people! 👋
 - Feel free to reach out to me on [![LinkedIn][1]][2]
-[1]: 
+[1]: https://raw.githubusercontent.com/Adarsh-g-s/adarsh-g-s/master/linkedin.png (LinkedIn icon without padding)
 [2]: https://www.linkedin.com/in/adarsh-g-s-416a689a/
 <!--
 **Adarsh-g-s/Adarsh-g-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
