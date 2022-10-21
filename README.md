@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 <!-- ![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  -->
 [1]: https://raw.githubusercontent.com/Adarsh-g-s/Adarsh-g-s/master/linkedin.png (LinkedIn profile)
-[2]: https://www.linkedin.com/in/adarsh-g-s-416a689a/
+[2]: https://www.linkedin.com/in/adarsh-garakahally-sridhar/
