@@ -1,5 +1,4 @@
-### Hey, people! 👋
-- Reach out to me on [![LinkedIn][1]][2] for queries.
+### Reach out to me on [![LinkedIn][1]][2] for queries.
 
 <!--
 **Adarsh-g-s/Adarsh-g-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
